@@ -75,6 +75,7 @@ export const People = () => {
     <View
       style={{
         flexDirection: "row",
+        left: SIZES.font
       }}
     >
       {[assets.person02, assets.person03, assets.person04].map(
